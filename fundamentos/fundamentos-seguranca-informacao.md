@@ -1,3 +1,6 @@
 # Fundamentos de Segurança da Informação
 
-Este documento reúne conceitos iniciais que estudei em Segurança da Informação, com foco educacional, abordando os principais fundamentos, terminologias e noções gerais da área.
+📚 Curso: Formação Hacker (Udemy)  
+🧠 Objetivo: Consolidar e documentar os conceitos iniciais estudados na área  
+✍️ Autor: Pierre  
+📅 Última atualização: 2026
